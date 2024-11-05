@@ -15,7 +15,7 @@ https://simpleicons.org/
 <h3 align='center'><strong><a href="https://preetpal.vercel.app" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
 
-<p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
+<p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I am a passionate MERN stack developer skilled in building dynamic and responsive web applications using MongoDB, Express.js, React, and Node.js. With a strong focus on clean code and user-centric design, I aim to deliver high-quality, scalable solutions. Whether it's crafting intuitive front-end experiences or building robust back-end services, I am constantly evolving my skills to stay ahead of the tech curve. Let's collaborate and create something awesome!</p>
 
 Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
 
@@ -71,10 +71,10 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 🤓 **Interested:** <br>
 
 ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
-![NodeJS](https://img.shields.io/badge/-NodeJS-000000?style=flat&logo=NodeJS&logoColor=#7CFC00&labelColor=#7CFC00)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=wordpress&labelColor=21759B)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=wordpress&labelColor=21759B)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=wordpress&labelColor=21759B)
+![NodeJS](https://img.shields.io/badge/-NodeJS%20-000000?style=flat&logo=node&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript&labelColor=21759B)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=21759B)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&labelColor=21759B)
 
 
 <!-- ✅  **GitHub Extra Pins**
